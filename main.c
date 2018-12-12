@@ -65,7 +65,7 @@
 #include "nrf_log_ctrl.h"
 #include "nrf_log_default_backends.h"
 
-// TODO: change names. STimer -> Anki иаиравиакпрепапркупкецин5епмк4уеку
+// TODO: change names. STimer -> Anki 
 #include "AnkiUsedFonts.h"
 #include "STimerImages.h"
 //#include "STimerRevision.h"
